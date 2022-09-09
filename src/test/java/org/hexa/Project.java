@@ -19,6 +19,5 @@ private void method4() {
 	}
  private void method6() {
 	    System.out.println("method 6");
- 
 }
 }
